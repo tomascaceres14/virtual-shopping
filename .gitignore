@@ -6,3 +6,9 @@ __pycache__/
 env/
 venv/
 .Python
+
+# Django
+db.sqlite3
+*.sqlite3
+*.log
+*.pot
